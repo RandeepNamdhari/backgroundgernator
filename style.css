@@ -31,6 +31,8 @@ button
 }
 h2
 {
+    font: 600 1.5em/1 'Raleway', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .5em;
     margin-top: 70px;
-	font: 200 .5em/1 'Raleway', sans-serif;
 }
