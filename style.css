@@ -15,7 +15,7 @@ h1 {
 }
 input
 {
-	margin-top:50px;
+	margin-top:100px;
     height: 30px;
     width: 100px;
     cursor:pointer;
@@ -23,16 +23,21 @@ input
 
 button
 {
-	padding: 5px;
-    width:210px;
-	margin-top: 50px;
-	background-color: white;
-    cursor:pointer;
+   padding: 5px;
+    width: 125px;
+    height: 33px;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    
+    position: relative;
+    top: -5px;
 }
 h2
 {
+
     font: 600 1.5em/1 'Raleway', sans-serif;
     text-transform: uppercase;
     letter-spacing: .5em;
-    margin-top: 70px;
+    margin-top: 150px;
 }
